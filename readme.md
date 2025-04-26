@@ -1,1 +1,1 @@
-This is a data analysis project for my classes
+This is a data analysis repository for my classes
